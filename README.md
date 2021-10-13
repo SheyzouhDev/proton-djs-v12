@@ -1,1 +1,1 @@
-Token = Your bot token
+Token=Your bot token
